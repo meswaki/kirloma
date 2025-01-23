@@ -1,0 +1,16 @@
+version: 2.1 
+
+jobs:
+  masp:
+    docker:
+      - image: python:3.9
+    steps:
+      - checkout
+      - run:
+          name: black formatting check
+          command:    python DUDE.py 
+
+workflows:
+  build:
+    jobs:
+      - masp
