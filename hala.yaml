@@ -1,8 +1,7 @@
-name: planet
+name: hausy
 channels:
   - rdkit
   - pytorch
-  - dglteam
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
   - conda-forge
