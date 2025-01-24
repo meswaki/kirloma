@@ -1,4 +1,4 @@
-name: hausy
+name: fausy
 channels:
   - rdkit
   - pytorch
