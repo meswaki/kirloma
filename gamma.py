@@ -1,4 +1,3 @@
-#import numpy as np
 #import pickle,argparse,os,math,rdkit
 #import rdkit.Chem as Chem
 #from torch.utils.data import Dataset,DataLoader
