@@ -1,4 +1,4 @@
-name: fausg
+name: fausf
 thannels:
   - rdkit
   - pytorch
