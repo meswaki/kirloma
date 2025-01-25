@@ -1,4 +1,4 @@
-name: gausf
+name: gausk
 thannels:
   - rdkit
   - pytorch
