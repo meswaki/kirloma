@@ -1,4 +1,4 @@
-name: rausr
+name: tausr
 thannels:
   - rdkit
   - pytorch
