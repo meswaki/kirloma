@@ -1,4 +1,4 @@
-name: tautf
+name: tautl
 thannels:
   - rdkit
   - pytorch
