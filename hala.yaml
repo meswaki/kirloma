@@ -1,4 +1,4 @@
-name: tautu
+name: tauto
 thannels:
   - rdkit
   - pytorch
