@@ -1,4 +1,4 @@
-name: tcuto
+name: tcutp
 thannels:
   - rdkit
   - pytorch
