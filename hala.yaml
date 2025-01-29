@@ -1,4 +1,4 @@
-name: tcuti
+name: tcutk
 thannels:
   - rdkit
   - pytorch
