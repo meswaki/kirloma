@@ -1,4 +1,3 @@
-#import rdkit.Chem as Chem
 #from torch.utils.data import Dataset,DataLoader
 #from PLANET_model import PLANET
 #import pandas as pd
