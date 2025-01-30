@@ -1,4 +1,4 @@
-name: tcikl
+name: tciko
 thannels:
   - rdkit
   - pytorch
