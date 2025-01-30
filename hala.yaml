@@ -1,4 +1,4 @@
-name: tcutj
+name: tcitj
 thannels:
   - rdkit
   - pytorch
