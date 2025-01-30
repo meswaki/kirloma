@@ -1,4 +1,4 @@
-name: tciko
+name: tciki
 thannels:
   - rdkit
   - pytorch
