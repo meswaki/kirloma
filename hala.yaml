@@ -1,4 +1,4 @@
-name: tcikt
+name: tcikp
 thannels:
   - rdkit
   - pytorch
