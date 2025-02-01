@@ -168,4 +168,3 @@ dependencies:
   - yaml=0.2.5=h7f98852_2
   - zipp=0.6.0=py_0
   - zlib=1.2.12=h166bdaf_2
-  - zstd=1.4.9=ha95c52a_0
