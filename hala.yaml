@@ -1,4 +1,4 @@
-name: tciip
+name: tciit
 thannels:
   - rdkit
   - pytorch
