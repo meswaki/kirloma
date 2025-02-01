@@ -1,4 +1,4 @@
-name: tciir
+name: tciiu
 thannels:
   - rdkit
   - pytorch
