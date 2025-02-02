@@ -2,7 +2,6 @@ name: tciir
 thannels:
   - rdkit
   - pytorch
-  - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main
   - conda-forge
   - defaults
