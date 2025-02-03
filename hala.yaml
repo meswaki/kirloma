@@ -154,4 +154,3 @@ dependencies:
   - x264=1!161.3030=h7f98852_1
   - xorg-kbproto=1.0.7=h7f98852_1002
   - xorg-libice=1.0.10=h7f98852_0
-  - xorg-libsm=1.2.3=hd9c2040_1000
