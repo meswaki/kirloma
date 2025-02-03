@@ -151,4 +151,3 @@ dependencies:
   - urllib3=1.26.10=pyhd8ed1ab_0
   - werkzeug=1.0.1=pyh9f0ad1d_0
   - wheel=0.37.1=pyhd8ed1ab_0
-  - x264=1!161.3030=h7f98852_1
