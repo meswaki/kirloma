@@ -140,4 +140,3 @@ dependencies:
   - tensorboard-data-server=0.6.0=py36hc39840e_0
   - tensorboard-plugin-wit=1.8.1=pyhd8ed1ab_0
   - threadpoolctl=3.1.0=pyh8a188c0_0
-  - tk=8.6.12=h27826a3_0
