@@ -137,4 +137,3 @@ dependencies:
   - sqlite=3.39.1=h4ff8645_0
   - tbb=2021.5.0=h924138e_1
   - tensorboard=2.6.0=py_1
-  - tensorboard-data-server=0.6.0=py36hc39840e_0
